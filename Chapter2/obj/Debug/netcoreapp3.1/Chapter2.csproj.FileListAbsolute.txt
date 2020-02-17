@@ -1,0 +1,14 @@
+C:\Users\cat-b\source\repos\Rx\Chapter2\bin\Debug\netcoreapp3.1\Chapter2.exe
+C:\Users\cat-b\source\repos\Rx\Chapter2\bin\Debug\netcoreapp3.1\Chapter2.deps.json
+C:\Users\cat-b\source\repos\Rx\Chapter2\bin\Debug\netcoreapp3.1\Chapter2.runtimeconfig.json
+C:\Users\cat-b\source\repos\Rx\Chapter2\bin\Debug\netcoreapp3.1\Chapter2.runtimeconfig.dev.json
+C:\Users\cat-b\source\repos\Rx\Chapter2\bin\Debug\netcoreapp3.1\Chapter2.dll
+C:\Users\cat-b\source\repos\Rx\Chapter2\bin\Debug\netcoreapp3.1\Chapter2.pdb
+C:\Users\cat-b\source\repos\Rx\Chapter2\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\cat-b\source\repos\Rx\Chapter2\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\cat-b\source\repos\Rx\Chapter2\obj\Debug\netcoreapp3.1\Chapter2.csprojAssemblyReference.cache
+C:\Users\cat-b\source\repos\Rx\Chapter2\obj\Debug\netcoreapp3.1\Chapter2.AssemblyInfoInputs.cache
+C:\Users\cat-b\source\repos\Rx\Chapter2\obj\Debug\netcoreapp3.1\Chapter2.AssemblyInfo.cs
+C:\Users\cat-b\source\repos\Rx\Chapter2\obj\Debug\netcoreapp3.1\Chapter2.csproj.CopyComplete
+C:\Users\cat-b\source\repos\Rx\Chapter2\obj\Debug\netcoreapp3.1\Chapter2.dll
+C:\Users\cat-b\source\repos\Rx\Chapter2\obj\Debug\netcoreapp3.1\Chapter2.pdb
